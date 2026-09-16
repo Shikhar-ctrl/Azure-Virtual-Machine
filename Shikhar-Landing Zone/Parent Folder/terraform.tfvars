@@ -3,6 +3,10 @@ rgs = {
     name     = "landingzone"
     location = "East US"
   }
+  rg2 = {
+    name     = "landingzone2"
+    location = "East US"
+  }
 }
 vnet = {
   vnet1 = {
